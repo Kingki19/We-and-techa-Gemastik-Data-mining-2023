@@ -14,4 +14,9 @@ M. Faris Al Hakim, S.Pd., M.Cs.
 - Melani Siyamafiroh
 - Michael Jonathan Panjaitan
 
+**Link pekerjaan:**
+- Dokumen makalah: [Gdocs viewer](https://docs.google.com/document/d/1kbkb_xQ8beel8uJZu-z1mqq9H9K3Nt9O/edit)
+- Notebook 1 (pelabelan manual): [Google colab](https://colab.research.google.com/drive/1_JCuKx3Ru9_cNlxSchSUWofqpYH96Ycd?usp=sharing) *{Tidak digunakan dalam makalah}*
+- Notebook 2 (pelabelan otomatis): [Google colab](https://colab.research.google.com/drive/1DdJ0T4a_DaShO9ZpAScXkpGQZyMjrvpP?usp=sharing) *{Digunakan dalam makalah}*
+
 *Terakhir diedit pada tanggal: 13 Juli 2023*
