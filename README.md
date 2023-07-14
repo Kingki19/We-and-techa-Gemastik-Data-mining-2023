@@ -15,7 +15,7 @@ M. Faris Al Hakim, S.Pd., M.Cs.
 - Michael Jonathan Panjaitan
 
 **Link pekerjaan:**
-- Dokumen makalah: [Gdocs viewer](https://docs.google.com/document/d/1kbkb_xQ8beel8uJZu-z1mqq9H9K3Nt9O/edit)
+- Dokumen makalah: [File PDF](https://github.com/Kingki19/We-and-techa---Gemastik-Data-mining-2023/blob/main/GEMASTIK%20XVI%20-%20Penambangan%20Data%20-%20GEMASTIK23-986616898%20-%20We%20and%20Techa%20-%20Pembangunan%20Model%20Analisis%20Sentimen%20Penerimaan%20AI%20pada%20Masyarakat%20melalui%20Komentar%20di%20Youtube.pdf)
 - Notebook 1 (pelabelan manual): [Google colab](https://colab.research.google.com/drive/1_JCuKx3Ru9_cNlxSchSUWofqpYH96Ycd?usp=sharing) *{Tidak digunakan dalam makalah}*
 - Notebook 2 (pelabelan otomatis): [Google colab](https://colab.research.google.com/drive/1DdJ0T4a_DaShO9ZpAScXkpGQZyMjrvpP?usp=sharing) *{Digunakan dalam makalah}*
 
@@ -28,7 +28,7 @@ M. Faris Al Hakim, S.Pd., M.Cs.
 5. [Eps 596: BAHAYA ChatGPT: AI ADALAH ANCAMAN BAGI MANUSIA](https://youtu.be/GA6cTuHgT7w)  
 
 **Tools yang digunakan (selain notebook) dalam data mining ini:**
-- [Youtube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader)
+- [Youtube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader)  
   Untuk mengekstrak comment Youtube tanpa API
 - Model translator dari [googletrans](https://py-googletrans.readthedocs.io/en/latest/)  
 Menerjemahkan komen ke bahasa Inggris agar bisa dilakukan pelabelan otomatis
