@@ -35,6 +35,10 @@ Menerjemahkan komen ke bahasa Inggris agar bisa dilakukan pelabelan otomatis
 - Model [twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) dari [transformers](https://huggingface.co/docs/transformers/index)  
 Model pre-trained yang digunakan untuk melabeli data secara otomatis
 
-
+**Tabel evaluasi model pada kedua *feature extraction*:** 
+- Penggunaan word embedding (word2vec)  
+![tabel word embedding](word_embedding.jpg)
+- Penggunaan TF-IDF  
+![tabel tf-idf](TF-IDF.jpg)
 
 *Terakhir diedit pada tanggal: 13 Juli 2023*
