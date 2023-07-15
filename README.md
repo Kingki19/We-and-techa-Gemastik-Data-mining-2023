@@ -11,8 +11,8 @@ M. Faris Al Hakim, S.Pd., M.Cs.
 
 **Anggota tim:**  
 - Muhammad Rizqi [@Kingki19](https://github.com/Kingki19)
-- Melani Siyamafiroh
-- Michael Jonathan Panjaitan
+- Melani Siyamafiroh [@Mooru123](https://github.com/Mooru123)
+- Michael Jonathan Panjaitan [@michaeljonathann](https://github.com/michaeljonathann)
 
 **Link pekerjaan:**
 - Dokumen makalah: [File PDF](https://github.com/Kingki19/We-and-techa---Gemastik-Data-mining-2023/blob/main/GEMASTIK%20XVI%20-%20Penambangan%20Data%20-%20GEMASTIK23-986616898%20-%20We%20and%20Techa%20-%20Pembangunan%20Model%20Analisis%20Sentimen%20Penerimaan%20AI%20pada%20Masyarakat%20melalui%20Komentar%20di%20Youtube.pdf)
@@ -41,4 +41,4 @@ Model pre-trained yang digunakan untuk melabeli data secara otomatis
 - Penggunaan TF-IDF  
 ![tabel tf-idf](TF-IDF.jpg)
 
-*Terakhir diedit pada tanggal: 13 Juli 2023*
+*Terakhir diedit pada tanggal: 15 Juli 2023*
