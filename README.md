@@ -1,4 +1,5 @@
 > Dokumentasi ini dibuat atas karya yang telah kami buat pada perlombaan gemastik 2023 divisi Data Mining biar keren aja gitu 😅 🐱
+> Jangan request notebook bang. Kalian harus punya akun UNNES Students untuk mengaksesnya.
 
 **Judul karya:**  
 Pembangunan Model Analisis Sentimen Penerimaan AI pada Masyarakat melalui Komentar di Youtube
